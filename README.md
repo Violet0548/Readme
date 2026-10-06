@@ -2,7 +2,7 @@
 * instagram: <https://www.instagram.com/ryfhix/>
 * Youtube : <https://www.youtube.com/@Violet_ewha>
  <img width="375" height="247" alt="Image" src="https://github.com/user-attachments/assets/fc125e3e-3046-4904-870e-ad58985794eb" />
-https://www.instagram.com/reel/CrnxekagYPy/
+<!-- Failed to upload "15058.mp4" -->
 
 ## 경력
 - 2015년, 2016년, 2017년, 2018년, 2019년 평택 청소년 가요 댄싱대회 본선 출전
